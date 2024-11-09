@@ -2,7 +2,7 @@
   "useSmtp": true,
   "host": "send.one.com",
   "port": 465,
-  "username": "secret.email",
-  "password": "secret.password",
+  "username": "forwarder@ssgroup.se",
+  "password": "grumpygrandpa1",
   "recipientEmail": "info@ssgroup.se"
 }
