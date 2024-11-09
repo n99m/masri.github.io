@@ -1,8 +1,8 @@
 {
-  "useSmtp": false,
-  "host": "stmp.gmail.com",
+  "useSmtp": true,
+  "host": "send.one.com",
   "port": 465,
-  "username": "demo@gmail.com",
-  "password": "demopassword",
-  "recipientEmail": "demo@gmail.com"
+  "username": "secret.email",
+  "password": "secret.password",
+  "recipientEmail": "info@ssgroup.se"
 }
